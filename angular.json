@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Proyecto-Ricardo"
+    }
+  },
+  "defaultProject": "Proyecto-Ricardo",
+  "cli": {
+    "analytics": "56692bd0-4dc1-4d9f-8222-3c00468ffcf6"
+  }
 }
